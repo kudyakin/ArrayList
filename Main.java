@@ -12,13 +12,16 @@ public class Main {
             myList.add(4);
             myList.add(75);
             myList.add(13);
+        System.out.println("---------");
             myList.add(84);
             myList.add(30);
         System.out.println("---------");
             myList.add(41);
             myList.add(89);
             myList.add(13);
+        System.out.println("---------");
             myList.add(13);
+        System.out.println("---------");
             myList.add(13);
 //        }
 
