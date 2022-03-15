@@ -16,6 +16,9 @@ public class Main {
             myList.add(30);
             myList.add(41);
             myList.add(89);
+            myList.add(13);
+            myList.add(13);
+            myList.add(13);
 //        }
 
         System.out.println(myList);
