@@ -13,5 +13,5 @@ public interface IntList {
     int size();
     IntList subList(int fromIndex, int toIndex);
     int[] toArray();
-
+    String toString();
 }
